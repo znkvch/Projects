@@ -6,4 +6,4 @@
 
 *Инструменты:*
 
-pandas, numpy, sklearn, DecisionTreeClassifier, RandomForestClassifier, LogisticReгрессия, GradientBoostingClassifier
+Pandas, Numpy, Sklearn, DecisionTreeClassifier, RandomForestClassifier, LogisticReгрессия, GradientBoostingClassifier
