@@ -7,4 +7,4 @@
 
 *Инструменты:*  
 
-Панды, Matplotlib, Numpy
+Pandas, Matplotlib, Numpy
