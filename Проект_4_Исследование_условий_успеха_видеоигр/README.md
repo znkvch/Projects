@@ -7,4 +7,4 @@
 
 *Инструменты:*  
 
-Панды, Matplotlib, Numpy, Scipy, Seaborn
+Pandas, Matplotlib, Numpy, Scipy, Seaborn
