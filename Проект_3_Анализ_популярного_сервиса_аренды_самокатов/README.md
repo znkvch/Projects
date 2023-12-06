@@ -6,6 +6,5 @@
 
 *Инструменты:*
 
-Панды, Matplotlib, Numpy, Scipy
+Pandas, Matplotlib, Numpy, Scipy
 
-**Выводы:**
